@@ -15,6 +15,7 @@ _Gosuken is a game we have created where two players fight until one is crowned 
 * _Make sure your computer is able to install gems, if you have a mac, you should be fine_
 * _In your terminal for OSX type "brew install sdl2 libogg libvorbis"_
 * _Type "bundle" to install the gems_
+* _If there are errors while using windows try 'gem install gosu' inside of the terminal_
 * _ruby lib/start.rb_
 * _Have fun_
 
